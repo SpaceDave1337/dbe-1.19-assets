@@ -1,0 +1,10 @@
+{
+  "parent": "davebuildingmod:custom/asciisign",
+  "textures": {
+    "all": "davebuildingmod:blocks/colortextschiss8",
+    "particle": "davebuildingmod:blocks/colortextschiss8",
+    "0": "davebuildingmod:blocks/colortextschiss8",
+    "missing": "davebuildingmod:blocks/"
+  },
+  "render_type": "cutout"
+}

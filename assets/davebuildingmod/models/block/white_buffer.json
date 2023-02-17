@@ -1,0 +1,9 @@
+{
+  "parent": "davebuildingmod:custom/buffer",
+  "textures": {
+    "all": "davebuildingmod:blocks/white_steel",
+    "particle": "davebuildingmod:blocks/white_steel",
+    "0": "davebuildingmod:blocks/white_steel"
+  },
+  "render_type": "cutout_mipped"
+}

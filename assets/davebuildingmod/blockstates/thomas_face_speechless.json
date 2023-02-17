@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "davebuildingmod:block/thomas_face_speechless"
+    },
+    "facing=east": {
+      "model": "davebuildingmod:block/thomas_face_speechless",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "davebuildingmod:block/thomas_face_speechless",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "davebuildingmod:block/thomas_face_speechless",
+      "y": 270
+    }
+  }
+}

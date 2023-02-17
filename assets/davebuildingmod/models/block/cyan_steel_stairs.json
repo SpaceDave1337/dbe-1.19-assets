@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "davebuildingmod:blocks/cyan_steel",
+    "top": "davebuildingmod:blocks/cyan_steel",
+    "side": "davebuildingmod:blocks/cyan_steel"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "davebuildingmod:ascii_a"
+  },
+  "result": "davebuildingmod:ascii_q"
+}

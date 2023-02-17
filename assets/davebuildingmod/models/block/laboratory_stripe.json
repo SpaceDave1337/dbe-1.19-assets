@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "davebuildingmod:blocks/laboratorywallstripe-blue",
+    "up": "davebuildingmod:blocks/laboratorywallstripe-blue",
+    "north": "davebuildingmod:blocks/laboratorywallstripe-blue",
+    "east": "davebuildingmod:blocks/laboratorywallstripe-blue",
+    "south": "davebuildingmod:blocks/laboratorywallstripe-blue",
+    "west": "davebuildingmod:blocks/laboratorywallstripe-blue",
+    "particle": "davebuildingmod:blocks/laboratorywallstripe-blue"
+  },
+  "render_type": "solid"
+}

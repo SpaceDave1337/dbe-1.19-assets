@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "davebuildingmod:blocks/dirt",
+    "top": "davebuildingmod:blocks/dirt",
+    "side": "davebuildingmod:blocks/dirt"
+  },
+  "render_type": "solid"
+}

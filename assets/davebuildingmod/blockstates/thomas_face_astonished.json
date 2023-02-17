@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "davebuildingmod:block/thomas_face_astonished"
+    },
+    "facing=east": {
+      "model": "davebuildingmod:block/thomas_face_astonished",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "davebuildingmod:block/thomas_face_astonished",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "davebuildingmod:block/thomas_face_astonished",
+      "y": 270
+    }
+  }
+}

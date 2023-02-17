@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "davebuildingmod:arrow_up_sign"
+  },
+  "result": "davebuildingmod:arrow_return_sign"
+}

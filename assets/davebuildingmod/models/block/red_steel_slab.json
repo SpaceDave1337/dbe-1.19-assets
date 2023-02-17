@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "davebuildingmod:blocks/red_steel",
+    "top": "davebuildingmod:blocks/red_steel",
+    "side": "davebuildingmod:blocks/red_steel"
+  },
+  "render_type": "solid"
+}

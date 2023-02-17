@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "davebuildingmod:block/ascii_f"
+    },
+    "facing=east": {
+      "model": "davebuildingmod:block/ascii_f",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "davebuildingmod:block/ascii_f",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "davebuildingmod:block/ascii_f",
+      "y": 270
+    }
+  }
+}

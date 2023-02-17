@@ -1,0 +1,10 @@
+{
+  "parent": "davebuildingmod:custom/large_sign",
+  "textures": {
+    "all": "davebuildingmod:blocks/astonished_t_face",
+    "particle": "davebuildingmod:blocks/astonished_t_face",
+    "0": "davebuildingmod:blocks/astonished_t_face",
+    "missing": "davebuildingmod:blocks/"
+  },
+  "render_type": "cutout"
+}

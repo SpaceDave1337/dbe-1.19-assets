@@ -1,0 +1,10 @@
+{
+  "parent": "davebuildingmod:custom/asciisign",
+  "textures": {
+    "all": "davebuildingmod:blocks/asciisign_29",
+    "particle": "davebuildingmod:blocks/asciisign_29",
+    "0": "davebuildingmod:blocks/asciisign_29",
+    "missing": "davebuildingmod:blocks/"
+  },
+  "render_type": "cutout"
+}

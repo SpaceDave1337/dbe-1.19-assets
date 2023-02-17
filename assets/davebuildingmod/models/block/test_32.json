@@ -1,0 +1,10 @@
+{
+  "parent": "davebuildingmod:custom/large_sign",
+  "textures": {
+    "all": "davebuildingmod:blocks/32test",
+    "particle": "davebuildingmod:blocks/32test",
+    "0": "davebuildingmod:blocks/32test",
+    "missing": "davebuildingmod:blocks/32test"
+  },
+  "render_type": "cutout"
+}

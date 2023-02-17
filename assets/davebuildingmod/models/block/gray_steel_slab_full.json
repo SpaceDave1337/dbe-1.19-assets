@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "davebuildingmod:blocks/gray_steel",
+    "top": "davebuildingmod:blocks/gray_steel",
+    "side": "davebuildingmod:blocks/gray_steel"
+  },
+  "render_type": "solid"
+}
