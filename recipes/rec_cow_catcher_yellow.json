@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 4,
-  "ingredient": {
-    "item": "davebuildingmod:yellow_steel_plating"
-  },
-  "result": "davebuildingmod:cow_catcher_yellow"
-}

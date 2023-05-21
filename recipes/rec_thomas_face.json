@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 2,
-  "ingredient": {
-    "item": "davebuildingmod:create_boiler"
-  },
-  "result": "davebuildingmod:thomas_face"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "davebuildingmod:custom/trainsign",
-  "textures": {
-    "all": "davebuildingmod:blocks/exithere_sign",
-    "particle": "davebuildingmod:blocks/exithere_sign",
-    "0": "davebuildingmod:blocks/exithere_sign"
-  },
-  "render_type": "cutout"
-}

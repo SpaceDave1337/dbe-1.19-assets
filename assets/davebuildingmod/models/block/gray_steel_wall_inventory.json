@@ -1,8 +1,0 @@
-{
-  "parent": "block/wall_inventory",
-  "textures": {
-    "wall": "davebuildingmod:blocks/gray_steel",
-    "particle": "davebuildingmod:blocks/gray_steel"
-  },
-  "render_type": "solid"
-}

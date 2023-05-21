@@ -1,9 +1,0 @@
-{
-  "parent": "davebuildingmod:custom/trainsign",
-  "textures": {
-    "all": "davebuildingmod:blocks/arrow_left_sign",
-    "particle": "davebuildingmod:blocks/arrow_left_sign",
-    "0": "davebuildingmod:blocks/arrow_left_sign"
-  },
-  "render_type": "cutout"
-}

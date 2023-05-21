@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "davebuildingmod:vent_straight"
-  },
-  "result": "davebuildingmod:vent_l"
-}

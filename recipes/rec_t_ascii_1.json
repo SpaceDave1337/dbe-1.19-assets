@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "davebuildingmod:thomas_ascii_0"
-  },
-  "result": "davebuildingmod:thomas_ascii_1"
-}

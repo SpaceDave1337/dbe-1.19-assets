@@ -1,9 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "davebuildingmod:blocks/black_steel",
-    "top": "davebuildingmod:blocks/black_steel",
-    "side": "davebuildingmod:blocks/black_steel"
-  },
-  "render_type": "solid"
-}

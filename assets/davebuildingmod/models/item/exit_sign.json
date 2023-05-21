@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "davebuildingmod:items/exithere_sign"
-  },
-  "render_type": "translucent"
-}

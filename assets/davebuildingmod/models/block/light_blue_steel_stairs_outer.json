@@ -1,9 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "davebuildingmod:blocks/light_blue_steel",
-    "top": "davebuildingmod:blocks/light_blue_steel",
-    "side": "davebuildingmod:blocks/light_blue_steel"
-  },
-  "render_type": "solid"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "davebuildingmod:custom/trainsign",
-  "textures": {
-    "all": "davebuildingmod:blocks/thomas_face_small",
-    "particle": "davebuildingmod:blocks/thomas_face_small",
-    "0": "davebuildingmod:blocks/thomas_face_small"
-  },
-  "render_type": "cutout"
-}

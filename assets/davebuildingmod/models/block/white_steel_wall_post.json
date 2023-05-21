@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_wall_post",
-  "textures": {
-    "wall": "davebuildingmod:blocks/white_steel",
-    "particle": "davebuildingmod:blocks/white_steel"
-  },
-  "render_type": "solid"
-}

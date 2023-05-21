@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 3,
-  "ingredient": {
-    "item": "davebuildingmod:full_log_pile"
-  },
-  "result": "davebuildingmod:log_palisade"
-}

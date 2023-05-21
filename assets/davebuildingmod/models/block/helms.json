@@ -1,9 +1,0 @@
-{
-  "parent": "davebuildingmod:custom/helms",
-  "textures": {
-    "all": "davebuildingmod:blocks/helms",
-    "particle": "davebuildingmod:blocks/helms",
-    "1_2": "davebuildingmod:blocks/helms"
-  },
-  "render_type": "solid"
-}

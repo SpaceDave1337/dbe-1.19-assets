@@ -1,9 +1,0 @@
-{
-  "parent": "davebuildingmod:custom/cowcatcher",
-  "textures": {
-    "all": "davebuildingmod:blocks/black_steel",
-    "particle": "davebuildingmod:blocks/black_steel",
-    "0": "davebuildingmod:blocks/black_steel"
-  },
-  "render_type": "solid"
-}

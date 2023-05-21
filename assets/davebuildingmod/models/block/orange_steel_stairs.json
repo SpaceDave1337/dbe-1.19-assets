@@ -1,9 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "davebuildingmod:blocks/orange_steel",
-    "top": "davebuildingmod:blocks/orange_steel",
-    "side": "davebuildingmod:blocks/orange_steel"
-  },
-  "render_type": "solid"
-}

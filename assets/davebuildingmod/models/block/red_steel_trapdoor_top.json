@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_orientable_trapdoor_top",
-  "textures": {
-    "texture": "davebuildingmod:blocks/red_steel",
-    "particle": "davebuildingmod:blocks/red_steel"
-  },
-  "render_type": "solid"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "davebuildingmod:blocks/lime_steel",
-    "top": "davebuildingmod:blocks/lime_steel",
-    "side": "davebuildingmod:blocks/lime_steel"
-  },
-  "render_type": "solid"
-}

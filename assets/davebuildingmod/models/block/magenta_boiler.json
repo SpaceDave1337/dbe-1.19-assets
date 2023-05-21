@@ -1,9 +1,0 @@
-{
-  "parent": "davebuildingmod:custom/boiler",
-  "textures": {
-    "all": "davebuildingmod:blocks/magenta_boiler",
-    "particle": "davebuildingmod:blocks/magenta_steel_tank",
-    "cover": "davebuildingmod:blocks/magenta_boiler"
-  },
-  "render_type": "cutout"
-}

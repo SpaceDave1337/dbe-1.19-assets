@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_orientable_trapdoor_top",
-  "textures": {
-    "texture": "davebuildingmod:blocks/steel_mesh",
-    "particle": "davebuildingmod:blocks/steel_mesh"
-  },
-  "render_type": "cutout"
-}
